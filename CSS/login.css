@@ -1,0 +1,56 @@
+body {
+  background-image: linear-gradient(45deg, blue , pink , purple);
+	width: 100%;
+	height: auto;
+}
+
+.login-form{
+    background: white;
+	width: 33%;
+	height: auto;
+	margin-left: 33%;
+	margin-top: 150px;
+	border-radius: 10px;
+}
+
+
+
+
+.input-label{
+	font-style: italic;
+	margin-left: 10%;
+	margin-bottom: 15px;
+}
+
+.input-value{
+	margin-top: 5px;
+	margin-left: 10%;
+	margin-bottom: 15px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    width: 80%;
+    height: 30px;
+   
+
+}
+
+.login-btn {
+	width: 80%;
+	margin-left: 10%;
+	height: 30px;
+	margin-bottom: 40px;
+	margin-top: 20px;
+	background-image: linear-gradient(45deg, blue , purple);
+	color: white;
+	font-size: 20px;
+	border-radius: 20px;
+}
+
+h4{
+	width: 100%;
+	height: 15px;
+	text-align: center;
+	visibility: hidden;
+}
+
